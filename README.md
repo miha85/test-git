@@ -5,3 +5,4 @@ testiranje funkcij git-a
 
 
 ### test3
+### test4
